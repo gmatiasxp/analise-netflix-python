@@ -39,12 +39,9 @@ Utilizei Python, Pandas e Matplotlib para explorar uma base de dados da Netflix,
 
 ## 📸 Exemplos de Gráficos
 
-
-
-
-
-*(Aqui você pode adicionar prints dos gráficos diretamente do Colab ou fazer upload das imagens no GitHub)*
-
+![Distribuição de filmes e séries](./grafico1.png)  
+![Top 5 países com mais títulos](./grafico2.png)  
+![Lançamentos por ano](./grafico3.png)
 
 ## ✅ Conclusões
 
