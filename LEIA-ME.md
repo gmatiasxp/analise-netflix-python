@@ -30,7 +30,9 @@ Utilizei Python, Pandas e Matplotlib para explorar uma base de dados da Netflix,
 
 ## 📈 Análises Realizadas
 
-**Link** [Clique aqui para acessar a base] (https://colab.research.google.com/drive/1NKEqjpPhLwtKVid-FMsDkgVV--mK3zzh#scrollTo=SbSpM5ujjPL0) 
+**Link** [Clique aqui para acessar o projeto] (https://colab.research.google.com/drive/1NKEqjpPhLwtKVid-FMsDkgVV--mK3zzh#scrollTo=SbSpM5ujjPL0) 
+
+📂 Veja o notebook completo aqui: [analise_netflix.ipynb](./analise_netflix.ipynb)
 
 - Quantidade total de títulos (filmes + séries)  
 - Comparação entre filmes e séries disponíveis  
