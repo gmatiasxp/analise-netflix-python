@@ -30,12 +30,18 @@ Utilizei Python, Pandas e Matplotlib para explorar uma base de dados da Netflix,
 
 ## 📈 Análises Realizadas
 
+**Link** [Clique aqui para acessar a base] (https://colab.research.google.com/drive/1NKEqjpPhLwtKVid-FMsDkgVV--mK3zzh#scrollTo=SbSpM5ujjPL0) 
+
 - Quantidade total de títulos (filmes + séries)  
 - Comparação entre filmes e séries disponíveis  
 - Países com mais títulos na plataforma  
 - Distribuição de lançamentos por ano
 
 ## 📸 Exemplos de Gráficos
+
+
+
+
 
 *(Aqui você pode adicionar prints dos gráficos diretamente do Colab ou fazer upload das imagens no GitHub)*
 
