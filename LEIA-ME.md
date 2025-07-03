@@ -1,4 +1,4 @@
-🎬 Análise Exploratória da Netflix com Python e Pandas
+## 🎬 Análise Exploratória da Netflix com Python e Pandas
 
 
 ## 📌 Descrição
